@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random-Quote-Generator",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://j-t-thomas.github.io/Random-Quote-Generator/",
+            "github_link": "https://github.com/j-t-thomas/Random-Quote-Generator.git",
+            "image_urls": []
+        },
+        {
+            "id": 1,
+            "project_name": "Project-2-Data-Pagination-and-Filtering",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://j-t-thomas.github.io/Project-2-Data-Pagination-and-Filtering/",
+            "github_link": "https://github.com/j-t-thomas/Project-2-Data-Pagination-and-Filtering.git",
+            "image_urls": []
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive-Form",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://j-t-thomas.github.io/Interactive-Form/",
+            "github_link": "https://github.com/j-t-thomas/Interactive-Form.git",
+            "image_urls": []
+        },
+        {
+            "id": 3,
+            "project_name": "Game-Show-App",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://j-t-thomas.github.io/Game-Show-App/",
+            "github_link": "https://github.com/j-t-thomas/Game-Show-App.git",
+            "image_urls": []
+        },
+        {
+            "id": 4,
+            "project_name": "Public-API-Requests",
+            "description": "",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://j-t-thomas.github.io/Public-API-Requests/",
+            "github_link": "https://github.com/j-t-thomas/Public-API-Requests.git",
+            "image_urls": []
+        }
+    ]
+}
