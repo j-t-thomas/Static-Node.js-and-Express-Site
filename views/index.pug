@@ -8,7 +8,7 @@ block content
     h1 Hello, here is my portfolio!
 
     //- Replace with a description for your portfolio, what this project is, it's purpose, what it's supposed to accomplish, etc. 
-    p Portfolio description
+    p Check out my projects!
 
 
   article.portfolio-project-thumbs
@@ -17,7 +17,7 @@ block content
       each project in projects
 
         .cell
-          a(href='/project/${project.id}')
-            img.thumbnail(src='https://placehold.it/550x550', alt='${project.project_name}')
-            h5 ${project.project_name}
+          a(href=`/project/${project.id}`)
+            img.thumbnail(src=`${project.image_urls[0]}`, alt=`${project.project_name}`)
+            h5= `${project.project_name}`
 

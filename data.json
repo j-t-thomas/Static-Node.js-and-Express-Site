@@ -3,47 +3,47 @@
         {
             "id": 0,
             "project_name": "Random-Quote-Generator",
-            "description": "",
+            "description": "An app that displays random famous quotes each time a button is clicked.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://j-t-thomas.github.io/Random-Quote-Generator/",
             "github_link": "https://github.com/j-t-thomas/Random-Quote-Generator.git",
-            "image_urls": []
+            "image_urls": ["/static/images/project1.png", "/static/images/project1.1.png"]
         },
         {
             "id": 1,
-            "project_name": "Project-2-Data-Pagination-and-Filtering",
-            "description": "",
+            "project_name": "Data-Pagination-and-Filtering",
+            "description": "Use pagination to enhance the usability of a web page. the website contains information for 42 students, including name, email, and picture. I used JavaScript to display the first nine students on the page. Then I added navigation, pagination buttons, that the user can click to display different pages of students.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://j-t-thomas.github.io/Project-2-Data-Pagination-and-Filtering/",
             "github_link": "https://github.com/j-t-thomas/Project-2-Data-Pagination-and-Filtering.git",
-            "image_urls": []
+            "image_urls": ["/static/images/project2.png", "/static/images/project2.1.png"]
         },
         {
             "id": 2,
             "project_name": "Interactive-Form",
-            "description": "",
+            "description": "I used JavaScript to enhance an interactive registration form for a fictional Full Stack conference. As well as adding customized and conditional behavior and interactivity. Also used Javascript to validate user input and provide helpful error messages when the user enters invalid information into the form fields.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://j-t-thomas.github.io/Interactive-Form/",
             "github_link": "https://github.com/j-t-thomas/Interactive-Form.git",
-            "image_urls": []
+            "image_urls": ["/static/images/project3.png", "/static/images/project3.1.png"]
         },
         {
             "id": 3,
             "project_name": "Game-Show-App",
-            "description": "",
+            "description": "Created a browser-based, word guessing game called Phrase Hunter. I used JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://j-t-thomas.github.io/Game-Show-App/",
             "github_link": "https://github.com/j-t-thomas/Game-Show-App.git",
-            "image_urls": []
+            "image_urls": ["/static/images/project4.png", "/static/images/project4.1.png"]
         },
         {
             "id": 4,
             "project_name": "Public-API-Requests",
-            "description": "",
+            "description": "I built an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other. I used the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and used that data to build a prototype for an Awesome Startup employee directory. I also requested a JSON object from the API and parse the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://j-t-thomas.github.io/Public-API-Requests/",
             "github_link": "https://github.com/j-t-thomas/Public-API-Requests.git",
-            "image_urls": []
+            "image_urls": ["/static/images/project5.png", "/static/images/project5.1.png"]
         }
     ]
 }
