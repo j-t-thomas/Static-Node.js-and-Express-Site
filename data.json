@@ -12,16 +12,16 @@
         {
             "id": 1,
             "project_name": "Data-Pagination-and-Filtering",
-            "description": "Use pagination to enhance the usability of a web page. the website contains information for 42 students, including name, email, and picture. I used JavaScript to display the first nine students on the page. Then I added navigation, pagination buttons, that the user can click to display different pages of students.",
+            "description": "Used pagination to enhance the usability of a web page. the website contains information for 42 students, including name, email, and picture. I used JavaScript to display the first nine students on the page. Then I added navigation, pagination buttons, that the user can click to display different pages of students.",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://j-t-thomas.github.io/Project-2-Data-Pagination-and-Filtering/",
-            "github_link": "https://github.com/j-t-thomas/Project-2-Data-Pagination-and-Filtering.git",
+            "live_link": "https://j-t-thomas.github.io/Data-Pagination-and-Filtering/",
+            "github_link": "https://github.com/j-t-thomas/Data-Pagination-and-Filtering.git",
             "image_urls": ["/static/images/project2.png", "/static/images/project2.1.png"]
         },
         {
             "id": 2,
             "project_name": "Interactive-Form",
-            "description": "I used JavaScript to enhance an interactive registration form for a fictional Full Stack conference. As well as adding customized and conditional behavior and interactivity. Also used Javascript to validate user input and provide helpful error messages when the user enters invalid information into the form fields.",
+            "description": "Used JavaScript to enhance an interactive registration form for a fictional Full Stack conference. As well as adding customized and conditional behavior and interactivity. Also used Javascript to validate user input and provide helpful error messages when the user enters invalid information into the form fields.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://j-t-thomas.github.io/Interactive-Form/",
             "github_link": "https://github.com/j-t-thomas/Interactive-Form.git",
@@ -39,7 +39,7 @@
         {
             "id": 4,
             "project_name": "Public-API-Requests",
-            "description": "I built an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other. I used the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and used that data to build a prototype for an Awesome Startup employee directory. I also requested a JSON object from the API and parse the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.",
+            "description": "Built an app for a fictional company called Awesome Startup, a distributed company with remote employees working all over the world. They need a smart way for employees to share contact information with each other. I used the Random User Generator API (https://randomuser.me/) to grab information for 12 random “employees,” and used that data to build a prototype for an Awesome Startup employee directory. I also requested a JSON object from the API and parse the data so that 12 employees are listed in a grid with their thumbnail image, full name, email, and location. Clicking the employee’s image or name will open a modal window with more detailed information, such as the employee’s birthday and address.",
             "technologies": ["HTML", "CSS", "JavaScript"],
             "live_link": "https://j-t-thomas.github.io/Public-API-Requests/",
             "github_link": "https://github.com/j-t-thomas/Public-API-Requests.git",
